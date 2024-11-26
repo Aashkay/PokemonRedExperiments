@@ -616,7 +616,7 @@ class RedGymEnv(Env):
     #     return new_step
 
     #  # Custom    
-    # #     #THIS IS THE NEW STUFF ADDED FOR AASHAY'S BULLSHITTERY x1
+    # #     #THIS IS THE NEW STUFF ADDED CUSTOM WEIGHTS
     # def get_game_state_reward(self, print_stats=False):
     # # Basic reward components (from previous setup)
     #     state_scores = {
