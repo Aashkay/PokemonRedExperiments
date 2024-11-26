@@ -1,4 +1,5 @@
-changes to this code from PWhiddy's code are in v2/baseline_fast_v2 and red_gym_env_v2. \\
+Changes to this code from PWhiddy's code are in v2/baseline_fast_v2 and red_gym_env_v2.
+
 The curiosity and custom reward functions are commented out, and the original functions must be commented out before uncommenting curiosity/custom
 
 
