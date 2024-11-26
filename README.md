@@ -1,3 +1,7 @@
+changes to this code from PWhiddy's code are in v2/baseline_fast_v2 and red_gym_env_v2.
+The curiosity and custom reward functions are commented out, and the original funcitons must be commented out before uncommenting curiosity/custom
+
+
 # Train RL agents to play Pokemon Red
 
 ### New 10-19-24! Updated & Simplified V2 Training Script - See V2 below
